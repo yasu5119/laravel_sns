@@ -28,7 +28,7 @@
                                     <input class="form-control" type="password" id="password" name="password" required>
                                 </div>
 
-                                <input type="hidden"" name="remember" id="remember" value="on">
+                                <input type="hidden" name="remember" id="remember" value="on">
 
                                 <div class="text-left">
                                     <a href="{{ route('password.request') }}" class="card-text">パスワードを忘れた方</a>
